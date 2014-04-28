@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Fieldbook</string>
+    <string name="noData">No Data</string>
+    <string name="titleApplication">Fieldbook</string>
+    <string name="titleAboutFieldBookActivity">About Fieldbook</string>
+    <string name="titleFieldBookActivity">Fieldbook</string>
+    <string name="titleRetrieveFieldbookActivity">Retrieve Fieldbook</string>
+    <string name="titleRetrieveFieldbookFromShares">Shared Files</string>
+    <string name="titleRetrieveFieldbookFromEmailActivity">Fieldbook From Email</string>
+    <string name="titleRetrieveFieldbookFromBluetoothActivity">Fieldbook From Bluetooth</string>
+    <string name="menuitem_FieldbookActivity_new">New</string>
+    <string name="menuitem_FieldbookActivity_retrieve">Retrieve</string>
+    <string name="menuitem_FieldbookActivity_retrieve_from_email">Fieldbook from email</string>
+    <string name="menuitem_FieldbookActivity_retrieve_from_bluetooth">Fieldbook from bluetooth</string>
+    <string name="menuitem_FieldbookActivity_refresh">Refresh</string>
+    <string name="menuitem_FieldbookActivity_about">About Fieldbook</string>
+    <string name="menuitem_FieldbookActivity_delete">Delete</string>
+    <string name="menuitem_FieldbookActivity_remove">Remove</string>
+    <string name="menuitem_FieldbookActivity_share">Share</string>
+</resources>
